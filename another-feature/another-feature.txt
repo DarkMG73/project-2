@@ -1,1 +1,3 @@
 Another feature added in Feature 2.
+
+Another file.
